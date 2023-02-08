@@ -1,4 +1,5 @@
 # Node ReadMe Project
+![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
 
@@ -28,6 +29,39 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
+## Table Of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Test](#test)
+* [Questions](#questions)
+
+## Installation
+
+To install dependencies, run the following command: 
+
+```
+npm install
+```
+
+## Usage
+
+
+
+## Contributing
+
+
+
+## Test
+
+To run test, use the following command:
+
+```
+npm test
+```
+
 ## Technologies Used
 
 - Node
@@ -40,3 +74,7 @@ Devarsh Patel
 ## License
 
 MIT License
+
+## Questions
+
+
