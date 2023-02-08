@@ -77,4 +77,5 @@ MIT License
 
 ## Questions
 
+To ask questions about the project, contact me directly at devarsh2395@gmail.com. You can find more of my work at [devarsh2395](https://github.com/devarsh2395/).
 
